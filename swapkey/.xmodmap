@@ -1,0 +1,13 @@
+clear shift
+clear control
+clear mod1
+
+keycode  50 = Alt_L NoSymbol Alt_L
+keycode  62 = Control_R NoSymbol Control_R
+keycode  64 = Shift_L Meta_L Shift_L Meta_L
+keycode  77 = KP_Delete KP_Delete KP_Delete KP_Delete
+keycode 119 = Hiragana Hiragana Hiragana
+
+add control = Control_L Control_R
+add mod1 = Alt_L Alt_R
+add shift = Shift_L
